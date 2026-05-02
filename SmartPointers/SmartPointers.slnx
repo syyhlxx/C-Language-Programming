@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SmartPointers/SmartPointers.vcxproj" Id="7e32aac3-74f3-4221-ad28-07d61e15e313" />
+</Solution>
