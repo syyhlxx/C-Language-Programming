@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MultiDimensionalArrays/MultiDimensionalArrays.vcxproj" Id="3bc8ff56-b290-474e-89dd-3ece2971fadf" />
+</Solution>
